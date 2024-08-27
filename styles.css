@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333; /* Main text color */
+}
+
+header {
+    background-color: #444; /* Darker background for contrast */
+    color: white;
+    padding: 1.5em 0;
+    text-align: center;
+}
+
+#about-me {
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 2em;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    color: #333; /* Ensure the text is dark for good readability */
+}
+
+h2 {
+    color: #222; /* Slightly darker heading */
+    margin-bottom: 1em;
+}
+
+p {
+    font-size: 1.1em; /* Slightly larger font for better readability */
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #444;
+    color: white;
+    margin-top: 2em;
+}
